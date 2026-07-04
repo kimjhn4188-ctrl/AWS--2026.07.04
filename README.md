@@ -2,9 +2,9 @@
 
 # AWS-기초실습 VPC 리소스 맵
 -----------------------------------------------------------------------------
-가용영역 2곳을 사용하진 않았지만, 가용영역 2개를 사용했다는 설정으로 구성함.
+가용영역 2곳을 사용하여 이중화.
 
-<img width="2083" height="960" alt="Image" src="https://github.com/user-attachments/assets/da17bf52-8e61-4a3b-bd89-159f01176504" />
+<img width="2110" height="570" alt="Image" src="https://github.com/user-attachments/assets/edf7ade5-2b65-4e00-8065-6e563f57e0ac" />
 
 
 - VPC 생성.
