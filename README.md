@@ -62,7 +62,7 @@ __1. NAT Gateway vs Load Balancer 차이점__
   
 
 
-__3. NAT Gateway를 어느 서브넷에 생성해야 하는지?__
+__2. NAT Gateway를 어느 서브넷에 생성해야 하는지?__
 
 - 물리적 생성 위치
   - 반드시 Public Subnet에 생성해야함(연결 유형 퍼블릭으로 선택해야함).
