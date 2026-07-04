@@ -11,7 +11,9 @@ B. Subnet 6개 생성 (VPC, Subnet Public, Subnet NAT, Subnet Private 계층 구
 -Private a, c zone
 -NAT a, c zone
 
+
 C. Internet Gateway 생성
+
 
 D. NAT Gateway 2개 생성
 
