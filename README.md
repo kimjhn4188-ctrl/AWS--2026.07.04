@@ -6,19 +6,17 @@ AWS-기초실습 2026.07.04
 A. VPC 생성
 
 B. Subnet 6개 생성 (VPC, Subnet Public, Subnet NAT, Subnet Private 계층 구조와 이중화의 시각화를 위하여)
-  
-   -Public a, c zone
-   -Private a, c zone
-   -NAT a, c zone
+  - Public a, c zone
+  - NAT a, c zone
+  - Private a, c zone
 
 
 C. Internet Gateway 생성
 
 
 D. NAT Gateway 2개 생성
-
-   -NAT Gateway a -> Subnet NAT a와 연결
-   -NAT Gateway c -> Subnet NAT b와 연결
+  - NAT Gateway a -> Subnet NAT a와 연결
+  - NAT Gateway c -> Subnet NAT b와 연결
 
 
 E. Routing table 5개 생성(VPC 기본 Router+ Public Router 1개, Private Router 1개, NAT Router a, c 각 1개)
